@@ -2,7 +2,7 @@
 
 A **Computer Science Student** building intelligent systems with LLMs, RAG, and multi-agent architectures.
 
-### 📌 Featured Projects
+### Featured Projects
 <table>
   <tr>
     <td width="50%" valign="top">
