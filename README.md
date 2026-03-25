@@ -1,6 +1,6 @@
 # Hey, I'm Rayan 👋
 
-**AI Engineer** building intelligent systems with LLMs, RAG, and multi-agent architectures.
+A **Computer Science Student** building intelligent systems with LLMs, RAG, and multi-agent architectures.
 
 I design and ship AI-powered applications — from retrieval-augmented generation pipelines to multi-agent workflows that solve real problems. Currently deep in the Claude ecosystem and pursuing the **Claude Certified Architect (CCA) Foundations** certification.
 
