@@ -7,7 +7,7 @@ A **Computer Science Student** building intelligent systems with LLMs, RAG, and 
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Rayan-Al-Harbi/ApplyCheck">ApplyCheck</a></h3>
-      <p>Multi-agent AI system that analyzes job applications. Uses LangGraph to orchestrate specialized agents (analyzer, writer, scorer) over a RAG pipeline — extracting CV data, comparing against job requirements, and generating actionable feedback.</p>
+      <p>Multi-agent AI system that analyzes job applications. Uses LangGraph to orchestrate specialized agents (analyzer, writer, scorer) over a RAG pipeline extracting CV data, comparing against job requirements, and generating actionable feedback.</p>
       <p><b>Python · LangGraph · RAG · Multi-Agent</b></p>
     </td>
     <td width="50%" valign="top">
