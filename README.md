@@ -20,9 +20,19 @@ A **Computer Science Student** building intelligent systems with LLMs, RAG, and 
 </table>
 
 ---
+<table>
+<tr>
+<td>
+<img src="https://streak-stats.demolab.com?user=Rayan-Al-Harbi&theme=tokyonight&hide_border=true" height="165"/>
+</td>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Al-Harbi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Al-Harbi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</td>
+</tr>
+</table>
 
 ---
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Al-Harbi&theme=tokyo-night&hide_border=true&days=7"/>
+</p>
