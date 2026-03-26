@@ -1,6 +1,6 @@
 # Hey, I'm Rayan 👋
 
-A **Computer Science Student** building intelligent systems with LLMs, RAG, and multi-agent architectures.
+#### A **Computer Science Student** building intelligent systems with LLMs, RAG, and multi-agent architectures.
 
 ---
 ### Featured Projects
