@@ -45,7 +45,3 @@
 </tr>
 </table>
 
----
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rayan-Al-Harbi&theme=tokyo-night&hide_border=true&days=7"/>
-</p>
