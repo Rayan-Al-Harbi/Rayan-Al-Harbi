@@ -33,15 +33,8 @@
 </table>
 
 ---
-<table>
-<tr>
-<td>
-<img src="https://streak-stats.demolab.com?user=Rayan-Al-Harbi&theme=tokyonight&hide_border=true" height="165"/>
-</td>
 
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayan-Al-Harbi&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</td>
-</tr>
+<img src="https://streak-stats.demolab.com?user=Rayan-Al-Harbi&theme=tokyonight&hide_border=true" height="165"/>
+
 </table>
 
