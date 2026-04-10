@@ -16,6 +16,7 @@
       </p>
       <p>Multi-agent AI system that analyzes job applications. Uses LangGraph to orchestrate specialized agents (analyzer, writer, scorer) over a RAG pipeline extracting CV data, comparing against job requirements, and generating actionable feedback.</p>
       <p><b>Python · LangGraph · RAG · Multi-Agent</b></p>
+       <p>🔗 <a href="https://www.applycheck.online/" style="text-decoration: none !important; border-bottom: none;">Live Demo</a></p>
     </td>
     <td width="50%" valign="top">
       <p style="margin: 0; font-size: 1.2em; font-weight: bold;">
