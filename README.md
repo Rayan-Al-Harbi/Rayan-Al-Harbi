@@ -25,7 +25,7 @@
           </a>
         </span>
       </p>
-      <p>Transforms wishes into authentic Arabic duas using AI + RAG. Features a curated knowledge base of 50+ references from Islamic sources, Arabic text-to-speech, and a clean Next.js frontend.</p>
+      <p>Transforms wishes into authentic Arabic duas using AI + RAG. Features a curated knowledge base of 50+ references from Islamic sources, Arabic text-to-speech, and a Next.js frontend.</p>
       <p><b>TypeScript · Next.js · Groq · RAG</b></p>
       <p>🔗 <a href="https://www.duadesign.online/" style="text-decoration: none !important; border-bottom: none;">Live Demo</a></p>
     </td>
